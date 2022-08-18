@@ -1,0 +1,50 @@
+.container h1 {
+    line-height: 1px;
+    text-align: left; 
+    font-size: 35px;   
+}
+#heading1 {
+	font-size: 17px;
+}
+#heading2 {
+	font-size: 17px;
+}
+#heading3 {
+	font-size: 17px;
+}
+#heading4 {
+	font-size: 17px;
+}
+.new1{
+	border: 1px dotted black;
+	width: 504px;
+	margin-left :0;
+	}
+.container p{
+	font-size: 18px;
+}
+#contain{
+	font-size: 17px;
+	}
+#allow{
+	font-size: 18px;
+	}
+body {
+	padding:50px;
+	margin-left:100px;
+	margin-right:100px;		
+}
+#button1 {
+	background-color: #595959;
+	color: white;
+	border: 1px solid #333333; 
+	border-radius: 20px;
+	font-size: 20px;
+	cursor: pointer;
+	height: 40px;
+	width: 250px;
+	text-decoration: none;
+}
+#button1:hover{
+	background-color: #333333;
+}
