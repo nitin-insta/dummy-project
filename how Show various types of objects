@@ -1,0 +1,138 @@
+[33mcommit 06b7cf448168244a6e27431111b6f59a91b42ebc[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+Merge: 6290627 82fa6ce
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 21:05:22 2022 +0530
+
+    uuuu
+
+[33mcommit 62906274d3e0c429ef5d534186a233f9e2676468[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 20:28:58 2022 +0530
+
+    directtluuyu
+
+[33mcommit 82fa6ceacaf865e3d29c1a73c7955430dafdc6e9[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 20:23:33 2022 +0530
+
+    direct
+
+[33mcommit 4a0ccf3d63ed440eb3d3532d87a6168f53d76f9e[m
+Merge: 1e9a0dc 8480ab1
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 20:10:30 2022 +0530
+
+    hhh
+
+[33mcommit 1e9a0dc23ab7cd8db00583a499a95f8157ced123[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 19:37:56 2022 +0530
+
+    edot{
+
+[33mcommit b694b961a1d27942ee2b440c00106a096c3652f7[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 15:56:38 2022 +0530
+
+    stashhhh
+
+[33mcommit 9c527c50688db8991528da1d0369e64b6d5546da[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Fri Aug 19 15:35:13 2022 +0530
+
+    stash vala
+
+[33mcommit 8480ab13994c8af46fad39a723669456951303f6[m
+Author: insta <nitininsta@gmail.com>
+Date:   Thu Aug 18 19:26:20 2022 +0530
+
+    heading changed
+
+[33mcommit c4ca6c89799b77a62f52b1233f7c3f2f8fc95174[m
+Merge: 00857a6 5b59319
+Author: nitin-insta <111371883+nitin-insta@users.noreply.github.com>
+Date:   Thu Aug 18 19:01:27 2022 +0530
+
+    Merge pull request #3 from nitin-insta/demo
+    
+    Demo
+
+[33mcommit 5b59319375695eefff0e35a8f5972a06a1ae663d[m
+Merge: ee0a600 00857a6
+Author: nitin-insta <111371883+nitin-insta@users.noreply.github.com>
+Date:   Thu Aug 18 19:01:17 2022 +0530
+
+    Merge branch 'master' into demo
+
+[33mcommit 00857a66ef9c670a7a6557e2e3ef05a96a614356[m
+Merge: 7a91bdb dd2d634
+Author: nandinihub <110978301+nandinihub@users.noreply.github.com>
+Date:   Thu Aug 18 18:59:42 2022 +0530
+
+    Merge pull request #2 from nitin-insta/test
+    
+    merge kr rhi
+
+[33mcommit dd2d634271b852d7aa3ca56220ea4928020bf86d[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Thu Aug 18 18:56:31 2022 +0530
+
+    merge kr rhi
+
+[33mcommit 7a91bdb28d881858a3e1dccfb03c79d7314ac213[m
+Merge: 17c5ece 234f914
+Author: nandinihub <110978301+nandinihub@users.noreply.github.com>
+Date:   Thu Aug 18 18:51:27 2022 +0530
+
+    Merge pull request #1 from nitin-insta/test
+    
+    changes to be made
+
+[33mcommit 234f914d7640e7a4cab3b0fa592a42d172c28640[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Thu Aug 18 18:26:38 2022 +0530
+
+    changes to be made
+
+[33mcommit 17c5ece8ada8bedfb9438c7be929b647635cc349[m
+Merge: 93bbb33 bae5ebd
+Author: nandu <nandini.instait@gmail.com>
+Date:   Thu Aug 18 17:35:09 2022 +0530
+
+    conflict fix
+
+[33mcommit bae5ebda09a1d0907509102666f418a63f1183ca[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Thu Aug 18 17:32:44 2022 +0530
+
+    test
+
+[33mcommit 93bbb33c0369d82dbd8234ae93650f30f76bea47[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Thu Aug 18 16:27:29 2022 +0530
+
+    change hua
+
+[33mcommit 3b79d1eaa28c7fa69d4a28a1da191c73e7ff1586[m
+Author: nandu <nandini.instait@gmail.com>
+Date:   Thu Aug 18 15:10:58 2022 +0530
+
+    yaha
+
+[33mcommit ee0a600e2cb1b5da6f5c7fd62a3ebc39c2948faf[m
+Author: insta <nitininsta@gmail.com>
+Date:   Thu Aug 18 13:43:56 2022 +0530
+
+    changed in index.html
+
+[33mcommit e7a474d34e347275d3ed4f7fe79fd24e9aad328b[m
+Author: insta <nitininsta@gmail.com>
+Date:   Thu Aug 18 12:47:08 2022 +0530
+
+    changed in index.html
+
+[33mcommit 0ff76fb738b11ac7d37a9ae2d7c8e4dba19a60f8[m
+Author: insta <nitininsta@gmail.com>
+Date:   Thu Aug 18 12:32:43 2022 +0530
+
+    files are added
